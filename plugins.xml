@@ -7,18 +7,18 @@
         <version>0.1.0</version>
         <qgis_minimum_version>1.8.0</qgis_minimum_version>
         <qgis_maximum_version>3.0.0</qgis_maximum_version>
-        <homepage><![CDATA[https://code.google.com/p/geospatialpython]]></homepage>
+        <homepage><![CDATA[https://github.com/DiaDeMuertos/Pyqgis]]></homepage>
         <file_name>MyPlugin.0.1.0.zip</file_name>
-        <icon>http://geospatialpython.googlecode.com/svn/icon_227.png</icon>
+        <icon>https://raw.githubusercontent.com/DiaDeMuertos/Pyqgis/master/icon.png</icon>
         <author_name><![CDATA[Ronico inc]]></author_name>
-        <download_url>https://geospatialpython.googlecode.com/svn/MyPlugin.0.1.0.zip</download_url>
+        <download_url>https://github.com/DiaDeMuertos/Pyqgis/raw/master/Myplugin.0.1.0.zip</download_url>
         <uploaded_by><![CDATA[Ronico inc]]></uploaded_by>
         <create_date>2014-05-16T15:31:19.824333</create_date>
         <update_date>2014-07-15T15:31:19.824333</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
-        <tracker><![CDATA[https://code.google.com/p/geospatialpython/issues/list]]></tracker>
-        <repository><![CDATA[https://geospatialpython.googlecode.com/svn/]]></repository>
+        <tracker><![CDATA[https://github.com/DiaDeMuertos/Pyqgis/issues]]></tracker>
+        <repository><![CDATA[https://github.com/DiaDeMuertos/Pyqgis]]></repository>
         <tags><![CDATA[development,debugging,tools]]></tags>
         <downloads>0</downloads>
         <average_vote>0</average_vote>
